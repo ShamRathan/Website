@@ -13,7 +13,7 @@ To create a commercial website using HTML & CSS.
 
 5.Edit App.js and enter the HTML code in the return and render.
 ## Output:
-![image](https://user-images.githubusercontent.com/93587823/235618443-1630ee46-602d-4bc0-b40a-53f5670c9a63.png)
+
 ![image](https://github.com/ShamRathan/Website/assets/93587823/bdf06925-29c8-4780-8718-19529881b0cf)
 
 ##  Result:
